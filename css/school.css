@@ -1,0 +1,384 @@
+body {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+   
+}
+
+
+
+
+.section1{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/2c280322883857b8975da902/classmates-friends-bag-school-educationcopy.jpg);
+    width:100%;
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+    
+}
+ .header h1{
+font-size: 60px;
+color: red;
+padding-top: 30px;
+margin-bottom: 0;
+
+}
+.header h4  {
+   
+    font-weight:700;
+}
+   
+
+.text-align{
+    text-align: center;
+}
+.section-button button {
+    color:#fff;
+   border:none;
+    background-color: rgb(68, 223, 68);
+    text-decoration: none;
+    border-radius: 50px;
+    padding: 15px 63px 17px 62px;
+    text-transform: uppercase;
+    font-weight: 700;
+    
+    
+}
+
+
+
+.section2{
+width:1080px;
+display: flex;
+flex-direction: row;
+margin:0 auto;
+}
+
+
+.section-text {
+    font-size: large;
+    line-height: 25.6px;
+    padding: 3rem;
+    
+}
+
+.section-image img{
+    width:450px;
+    height:450px;
+   border-radius: 50%;
+   padding: 2rem 1rem;
+
+}
+.section3{
+    width:1080px;
+    display: flex;
+    flex-direction: row;
+    margin:0 auto;
+       
+ }
+.section4 img{
+    width:100%;
+    height:559px;
+    
+    
+}
+.contanier-card{
+    display: flex;
+    flex-direction:row;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -100px;
+    position: relative;
+    margin-bottom: 50px;
+  
+}
+.card1{
+    width:250px;
+    background-color:rgb(35, 153, 192);
+    height:280px;
+    color:#fff;
+    padding: 20px;
+    
+}
+.card2{
+    width:250px;
+    background-color:rgb(69, 223, 69);
+    height:280px;
+    color:#fff;
+    padding: 20px;
+    
+}
+.card3{
+    width:250px;
+    background-color:red;
+    height:280px;
+    color:#fff;
+    padding: 20px;
+    
+}
+.card4{
+    width:250px;
+    background-color:yellow;
+    height:280px;
+    color:black;
+    padding: 20px;
+    
+}
+
+
+.dot {
+    height: 98px;
+    width: 98px;
+    background-color: #fff;
+    border-radius: 50px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.dot img{
+    width:58px;
+    height:58px;
+  
+   
+   
+}
+.card1 p{
+    margin:20px 0 0;
+    word-wrap: break-word;
+}
+
+   
+
+.section6{
+    width:1080px;
+    display: flex;
+    flex-direction: row;
+    margin:0 auto;
+    
+}
+.section7{
+    background-color:#65ca5a;
+   
+   
+}
+.contanier7{
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.text-color{
+    color:#fff;
+    
+}
+.font-size{
+    font-size: 2rem;
+}
+.section-button7{
+    padding-top: 50px;
+}
+.section-button7 button{
+    color:black;
+    background-color:#d9b10d
+}
+.section8{
+    padding-top: 80px;
+   
+}
+.contanier8{
+    width:1080px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+   
+}
+.layout1{
+    background-color: #ffcc00;
+    width:300px;
+   
+}
+.card-desgin{
+padding-top: 150px;
+padding-bottom: 170px;
+color: rgb(17, 17, 17);
+padding-left: 10px;
+padding-right: 10px;
+
+
+}
+.imagescard{
+ width:600px;
+ display: flex;
+ flex-direction: row;
+   
+   
+   
+}
+.imagescard img{
+    width:100%;
+    height:250px;
+   
+}
+.img1{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.section9{
+    padding-top: 30px;
+}
+.contanier9{
+    width:1080px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 80px;
+    
+}
+.layoutcard{
+    width:400px;
+   
+    padding-right: 30px;
+}
+.layoutcard img {
+    width:100%;
+    min-height: 100px;
+    
+ 
+}
+.layoutcard2{
+    width:700px;
+    background-color:#f4131d;
+    color:#fff;
+    padding:10px 80px 20px 20px;
+   
+    
+}
+.section-button9 button{
+    background-color: #d9b10d;
+    color: black;
+}
+.section10{
+width:1080px;
+display: flex;
+flex-direction: row;
+margin:0 auto;
+}
+.footer{
+    background-color:#333333;
+    padding: 50px;
+    color:beige;
+}
+.link{
+    padding-top:50px;
+}
+.section11{
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/523bf066bfaa5f34a069463b/little-girl-megaphone-positive-shootcopy.jpg);
+    width:100%;
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:50% 50%; 
+}
+.registration-form{
+    width: 281px;
+}
+
+@media screen and (max-width:600px) {
+   .section2{
+    flex-direction: column;
+    width:350px;
+   
+   
+   }
+   .section-text {
+    font-size: small;
+    padding: 3rem;
+    
+}
+
+.section-image img{
+    width:80%;
+    height:274px;
+}
+.section3{
+flex-direction: column;
+width:350px;
+}
+.contanier-card{
+    flex-direction: column;
+}
+.section6{
+    flex-direction: column;
+    width:350px;
+    }
+    .contanier7{
+        width: 340px;
+    }
+    .contanier8{
+        
+        flex-direction:column;
+    }
+    .contanier9{
+        flex-direction: column;
+        
+    }
+    .section10{
+        width:350px;
+        flex-direction: column;
+    }
+    .section11{
+   background-position: 82.68% 50%;
+   height:50vh;
+}
+.registration-form{
+    width:100px;
+}
+.section1{
+    background-position: 82.68% 50%;
+    height:50vh;
+}
+.imagescard{
+    width:300px;
+    flex-direction: column;
+}
+.imagescard img{
+    min-height:100px;
+}
+.card-desgin{
+   padding: 20px 10px;
+    
+    
+    }
+.img1{
+    padding-left: 0;
+    padding-right: 0;
+}
+.layoutcard2{
+    width:250px;
+    padding:10px;
+}
+.contanier9{
+    width:600px;
+}
+.layoutcard{
+    width:300px;
+   
+    padding-right:0;
+}
+}
+
+
+
+
+
+      
+  
+
+
+
+

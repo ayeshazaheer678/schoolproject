@@ -285,7 +285,8 @@ margin:0 auto;
     background-position:50% 50%; 
 }
 .registration-form{
-    width: 281px;
+    width: 400px;
+    border: solid 1px red;
 }
 
 @media screen and (max-width:600px) {

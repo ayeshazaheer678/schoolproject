@@ -191,71 +191,94 @@ margin:0 auto;
     font-weight: 700;
     border:none;
 }
-.section8{
-    padding-top: 80px;
-   
-}
-.contanier8{
+
+.container8{
     width:1080px;
     margin: 0 auto;
     display: flex;
     flex-direction: row;
-   
+    margin-top: 40px;
 }
 .layout1{
     background-color: #ffcc00;
     width:300px;
+    margin:10px;
    
 }
 .card-desgin{
 padding-top: 150px;
 padding-bottom: 170px;
 color: rgb(17, 17, 17);
+font-size: 16px;
 padding-left: 10px;
-padding-right: 10px;
+padding-right:10px;
 
 
 }
+
 .imagescard{
- width:600px;
- display: flex;
- flex-direction: row;
-   
-   
-   
-}
-.imagescard img{
-    width:100%;
-    height:250px;
+   display: flex;
+   flex-direction: row;
    
 }
 .img1{
-    padding-left: 30px;
-    padding-right: 30px;
+    width:350px;
+    height:250px;
+    margin: 10px;
+    background-image: url(https://images03.nicepagecdn.com/c461c07a441a5d220e8feb1a/d8ce469044b958508f4bdbab/blueschoolbackpackwithessentialsupplies_232148207678.jpg);
+   background-size: cover;
 }
 
-.section9{
-    padding-top: 30px;
+.img2{
+    width:350px;
+    height:250px;
+    margin: 10px;
+    background-image: url(https://images03.nicepagecdn.com/c461c07a441a5d220e8feb1a/9e4ce16148dd5cbeb1065410/89f80abe-6acd-d8dc-a341-3e571206975b.jpg);
+   background-size: cover;
 }
-.contanier9{
+.img3{
+    width:350px;
+    height:250px;
+    margin: 10px;
+   
+    display: flex;   
+    align-items: center;
+    justify-content: center;
+    font-size: 2.25rem;
+   
+    
+}
+
+
+.img4{
+    width:350px;
+    height:250px;
+    margin: 10px;
+    background-image: url(https://images03.nicepagecdn.com/c461c07a441a5d220e8feb1a/773a5aa425b1502aaac14708/f2b45624-c8f6-3aa0-0ee4-58adda3c89b0.jpg);
+   background-size: cover;
+}
+
+
+
+
+
+.container9{
     width:1080px;
     margin: 0 auto;
     display: flex;
     flex-direction: row;
     padding-bottom: 80px;
+    margin-top: 30px;
     
 }
-.layoutcard{
+.img5{
     width:400px;
-   
-    padding-right: 30px;
+    height:250px;
+    background-image: url(https://images01.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/ce44e13b52ee5eec9d8826e4/2050938_medium2000.jpg);
+   background-size: cover;
+   margin-right: 30px;
 }
-.layoutcard img {
-    width:100%;
-    min-height: 100px;
-    
- 
-}
+
 .layoutcard2{
     width:700px;
     background-color:#f4131d;
@@ -275,11 +298,11 @@ padding-right: 10px;
     border:none;
 }
 .section10{
-width:1080px;
-display: flex;
-flex-direction: row;
-margin:0 auto;
-}
+    width:1080px;
+    display: flex;
+    flex-direction: row;
+    margin:0 auto;
+    }
 .footer{
     background-color:#333333;
     padding: 50px;
@@ -329,17 +352,38 @@ width:350px;
     flex-direction: column;
     width:350px;
     }
-    .contanier7{
-        width: 340px;
-    }
-    .contanier8{
-        
-        flex-direction:column;
-    }
-    .contanier9{
-        flex-direction: column;
-        
-    }
+   .container8{
+    flex-direction: column;
+   
+    
+   } 
+   .layout1{
+    width:250px;
+    
+   }
+  .img1{
+    width:250px;
+    height:250px;
+  }
+  .img2{
+    width:250px;
+    height:250px;
+  }
+  .img3{
+    width:250px;
+    height:0;
+    font-size: 0;
+  }
+  .img4{
+    width:250px;
+    height:200px;
+  }
+  
+  .container9{
+    flex-direction:column;
+   
+    
+}
     .section10{
         width:350px;
         flex-direction: column;
@@ -367,22 +411,8 @@ width:350px;
     
     
     }
-.img1{
-    padding-left: 0;
-    padding-right: 0;
-}
-.layoutcard2{
-    width:250px;
-    padding:10px;
-}
-.contanier9{
-    width:600px;
-}
-.layoutcard{
-    width:300px;
-   
-    padding-right:0;
-}
+
+
 }
 
 .form-row-single{

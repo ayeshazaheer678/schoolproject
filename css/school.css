@@ -84,7 +84,7 @@ margin:0 auto;
     
     
 }
-.contanier-card{
+.container-card{
     display: flex;
     flex-direction:row;
     display: flex;
@@ -162,14 +162,13 @@ margin:0 auto;
 }
 .section7{
     background-color:#65ca5a;
-   
-   
 }
-.contanier7{
+.container7{
     width: 600px;
     margin: 0 auto;
     padding-top: 40px;
     padding-bottom: 50px;
+   
 }
 .text-color{
     color:#fff;
@@ -345,7 +344,7 @@ padding-right:10px;
 flex-direction: column;
 width:350px;
 }
-.contanier-card{
+.container-card{
     flex-direction: column;
 }
 .section6{

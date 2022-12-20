@@ -347,7 +347,7 @@ padding-right:10px;
    } 
    .layoutcard2{
     width: 100%;
-    padding:8px;
+    padding:0;
    }
   .img5{
     margin-right: 0;
@@ -412,12 +412,16 @@ width:350px;
         flex-direction: column;
     }
     .section11{
-   background-position: 82.68% 50%;
-   height:50vh;
+        background-position: 82.68% 50%;
+        height:50vh;
+     }
+.center-container{
+    width:100%;
 }
 .registration-form{
-    width:100px;
+    width: 100%;
 }
+
 .section1{
     background-position: 82.68% 50%;
     height:50vh;
@@ -434,7 +438,9 @@ width:350px;
     
     
     }
-
+   .form-row-double{
+    flex-direction: column;
+   }
 }
 
 

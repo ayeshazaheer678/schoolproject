@@ -330,11 +330,32 @@ padding-right:10px;
    
    
    }
+
    .section-text {
     font-size: small;
     padding: 3rem;
     
 }
+
+
+.container8{
+   width: 100%;
+    
+   }
+   .container9{
+    width:100%;
+   } 
+   .layoutcard2{
+    width: 100%;
+    padding:8px;
+   }
+  .img5{
+    margin-right: 0;
+    width:100%;
+  }
+
+
+
 
 .section-image img{
     width:80%;
@@ -350,6 +371,9 @@ width:350px;
 .section6{
     flex-direction: column;
     width:350px;
+    }
+    .container7{
+        width:100%;
     }
    .container8{
     flex-direction: column;
@@ -411,8 +435,8 @@ width:350px;
     
     }
 
-
 }
+
 
 .form-row-single{
     display: flex;
